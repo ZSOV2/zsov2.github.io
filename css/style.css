@@ -23,6 +23,13 @@ body{
 .top{width:1002px; margin:0 auto; height:221px; background:url("../images/tbg.jpg")/*tpa=http://yaolab.ustc.edu.cn/images/tbg.jpg*/ repeat-x left top; padding-top:16px;}
 .top_ml{width:351px; height:115px; float:left; padding:46px 27px 60px 25px; background:url("../images/ms.jpg")/*tpa=http://yaolab.ustc.edu.cn/images/ms.jpg*/ no-repeat left bottom;}
 .top_mr{float:right; width:594px; height:218px; padding-right:5px; }
+.top_mr2{
+	float: left;
+	width: 594px;
+	height: auto;
+	padding-right: 5px;
+	font-size: 12px;
+}
 
 
 
@@ -171,8 +178,18 @@ min-height:80px; height:auto !important; height:80px;
 .cv{ width:956px; padding-left:31px; height:282px; background:url("../images/al.jpg")/*tpa=http://yaolab.ustc.edu.cn/images/al.jpg*/ no-repeat 16px top; padding-right:15px;}
 .cv_m{width:941px; height:282px; background:url("../images/am.jpg")/*tpa=http://yaolab.ustc.edu.cn/images/am.jpg*/ repeat-x left top; float:left;}
 
-.cv_1mr{ float:right; width:670px; padding:27px 27px 0px 40px ; margin:6px 0px 12px 0px; color:#000; font-size:14px; line-height:24px; 
-background:#f0f0f0; height:237px;  font-family:Arial;}
+.cv_1mr{
+	float: right;
+	width: 670px;
+	padding: 27px 27px 0px 40px;
+	margin: 6px 0px 12px 0px;
+	color: #000;
+	font-size: 14px;
+	line-height: 24px;
+	background: #f0f0f0;
+	height: 250px;
+	font-family: Arial;
+}
 .cv_1mr span{font-size:24px; line-height:36px; background:url("../images/name.png")/*tpa=http://yaolab.ustc.edu.cn/images/name.png*/ no-repeat 150px center;}
 .cv_1mr em{font-style:normal; font-weight: bold;}
 
