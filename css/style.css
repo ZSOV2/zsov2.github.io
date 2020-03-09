@@ -112,7 +112,13 @@ body{
 
 
 
-.index1{ width:1002px; margin:0 auto; background:#fff url("../images/menubg.png")/*tpa=http://yaolab.ustc.edu.cn/images/menubg.png*/ no-repeat top center; height:282px; padding-top:21px;}
+.index1{
+	width: 1002px;
+	margin: 0 auto;
+	background: #fff url("../images/menubg.png")/*tpa=http://yaolab.ustc.edu.cn/images/menubg.png*/ no-repeat top center;
+	height: 290px;
+	padding-top: 21px;
+}
      
 .index1_1{ width:645px; padding-left:31px; height:282px; background:url("../images/al.jpg")/*tpa=http://yaolab.ustc.edu.cn/images/al.jpg*/ no-repeat 16px top; float:left;}
 .index1_1m{ width:630px; height:282px; background:url("../images/am.jpg")/*tpa=http://yaolab.ustc.edu.cn/images/am.jpg*/ repeat-x left top; float:left;}
@@ -176,7 +182,12 @@ min-height:80px; height:auto !important; height:80px;
 /* 内页 */
 
 .cv{ width:956px; padding-left:31px; height:282px; background:url("../images/al.jpg")/*tpa=http://yaolab.ustc.edu.cn/images/al.jpg*/ no-repeat 16px top; padding-right:15px;}
-.cv_m{width:941px; height:282px; background:url("../images/am.jpg")/*tpa=http://yaolab.ustc.edu.cn/images/am.jpg*/ repeat-x left top; float:left;}
+.cv_m{
+	width: 941px;
+	height: 300px;
+	background: url("../images/am.jpg")/*tpa=http://yaolab.ustc.edu.cn/images/am.jpg*/ repeat-x left top;
+	float: left;
+}
 
 .cv_1mr{
 	float: right;
@@ -187,7 +198,7 @@ min-height:80px; height:auto !important; height:80px;
 	font-size: 14px;
 	line-height: 24px;
 	background: #f0f0f0;
-	height: 250px;
+	height: 230px;
 	font-family: Arial;
 }
 .cv_1mr span{font-size:24px; line-height:36px; background:url("../images/name.png")/*tpa=http://yaolab.ustc.edu.cn/images/name.png*/ no-repeat 150px center;}
@@ -287,10 +298,11 @@ overflow: hidden; }
 .new_dj .cs{ text-decoration:none; color:#f59414; font-family:Arial; font-size:12px; font-weight:normal;}
 
 .new_xx2{
-       color:#1b1b1b; 
-	   font-size:12px; 
-	   line-height:22px; 
-	   padding:10px 0px;}
+	color: #1b1b1b;
+	font-size: 12px;
+	line-height: normal;
+	padding: 10px 0px;
+}
 
 .research{width:919px; min-height:600px; height:auto !important; height:600px; padding:18px 28px 26px 25px; color:#1b1b1b; line-height:24px;}
 .research li{height:30px; padding-left:10px; line-height:30px; color:#1b1b1b; border-bottom:#cbcbcb 1px dotted; 
